@@ -12,19 +12,17 @@ From data sources, learning resources, software and processing platforms you got
 
 ### Free satellite data
 
-
 #### Multi-platform
 
-USGS Earth/Explorer | [link](https://earthexplorer.usgs.gov)
+. USGS Earth/Explorer | [link](https://earthexplorer.usgs.gov)
 
-NASA EarthData search | [link](https://search.earthdata.nasa.gov)
+. NASA EarthData search | [link](https://search.earthdata.nasa.gov)
 
-NASA Earth Observations (NEO) | [link](https://neo.sci.gsfc.nasa.gov)
+. NASA Earth Observations (NEO) | [link](https://neo.sci.gsfc.nasa.gov)
 
-Land Viewer EOS Data Analytics | [link](https://lv.eosda.com)
+. Land Viewer EOS Data Analytics | [link](https://lv.eosda.com)
 
-Vito Data Portal | [link](http://www.vito-eodata.be/PDF/portal/Application.html#Home)
-
+. Vito Data Portal | [link](http://www.vito-eodata.be/PDF/portal/Application.html#Home)
 
 #### Sentinel
 
