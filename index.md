@@ -1,12 +1,19 @@
 # Remote Sensing / Earth Observation directory
 
+Just another website where you can find some useful resources in Remote Sensing (RS) & Earth Observation (EO). 
+From data sources, learning resources, software and processing platforms you got it all! :-D
+
+![Copyright ESA](./imgs/s2_eo.jpg)
+
 ## Searching/visualizing and downloading RS/EO data
 
 -------------------------------------------------------------------------------------------------------------------
 
+
 ### Free satellite data
 
-### Multi-platform
+
+#### Multi-platform
 
 USGS Earth/Explorer | [link](https://earthexplorer.usgs.gov)
 
@@ -18,6 +25,7 @@ Land Viewer EOS Data Analytics | [link](https://lv.eosda.com)
 
 Vito Data Portal | [link](http://www.vito-eodata.be/PDF/portal/Application.html#Home)
 
+
 #### Sentinel
 
 ESA SciHub Sentinels Data | [link](https://scihub.copernicus.eu/dhus)
@@ -26,7 +34,8 @@ BOKU Sentinel-2 data pre-processing service | [link](https://s2.boku.eodc.eu)
 
 Theia/CNES Sentinel-2 data pre-processing service | [link](https://theia.cnes.fr/atdistrib/rocket/#/home)
 
-### Landsat
+
+#### Landsat
 
 USGS ESPA data ordering interface | [link](https://espa.cr.usgs.gov)
 
