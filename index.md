@@ -6,13 +6,25 @@
 
 ### Free satellite data
 
+### Multi-platform
+
+USGS Earth/Explorer | [link](https://earthexplorer.usgs.gov)
+
+NASA EarthData search | [link](https://search.earthdata.nasa.gov)
+
+NASA Earth Observations (NEO) | [link](https://neo.sci.gsfc.nasa.gov)
+
+Land Viewer EOS Data Analytics | [link](https://lv.eosda.com)
+
+Vito Data Portal | [link](http://www.vito-eodata.be/PDF/portal/Application.html#Home)
+
 #### Sentinel
 
 ESA SciHub Sentinels Data | [link](https://scihub.copernicus.eu/dhus)
 
 BOKU Sentinel-2 data pre-processing service | [link](https://s2.boku.eodc.eu)
 
-Theia/CNES Sentinel-2 data pre-processing service [link](https://theia.cnes.fr/atdistrib/rocket/#/home)
+Theia/CNES Sentinel-2 data pre-processing service | [link](https://theia.cnes.fr/atdistrib/rocket/#/home)
 
 ### Landsat
 
@@ -20,7 +32,6 @@ USGS ESPA data ordering interface | [link](https://espa.cr.usgs.gov)
 
 
 
-### Multi-platform
 
 
 
@@ -33,9 +44,16 @@ USGS ESPA data ordering interface | [link](https://espa.cr.usgs.gov)
 
 ### Courses
 
+NASA Applied Remote Sensing Training (ARSET) | [link](https://arset.gsfc.nasa.gov/)
+
+
+
 ### Books
 
 ### Other websites
+
+Data recipes / Alaska Satellite Facility (ASF) | [link](https://www.asf.alaska.edu/asf-tutorials/data-recipes)
+
 
 
 ## RS & GIS open-source/free software
@@ -50,6 +68,10 @@ ESA SNAP sen2cor (atmospheric correction module) | [link](http://step.esa.int/ma
 
 Open Foris Geospatial Toolkit | [link](http://www.openforis.org/tools/geospatial-toolkit.html)
 
+### R packages
+
+Remote Sensing Toolbox (RSToolbox) | [link](https://github.com/bleutner/RStoolbox)
+
 ### Commercial
 
 
@@ -57,3 +79,10 @@ Open Foris Geospatial Toolkit | [link](http://www.openforis.org/tools/geospatial
 
 -------------------------------------------------------------------------------------------------------------------
 
+### Free
+
+Google Earth Engine | [link 1](https://earthengine.google.com) [link 2](https://explorer.earthengine.google.com) [link 3](https://code.earthengine.google.com/)
+
+### Commercial
+
+Descartes Lab | [link](https://descarteslabs.com/)
