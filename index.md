@@ -10,9 +10,11 @@ alphabetically arranged so I am not organizing things according to my taste or p
 # TOC
 
 - [Searching, visualizing and downloading RS/EO data](#header-1)
+- [Learning RS/EO](#header-2)
+- [RS & GIS open-source/free software](#header-3)
+- [Cloud-based platforms for EO data processing](#header-4)
 
-## Searching, visualizing and downloading RS/EO data 
-<a name="header-1"></a>
+## Searching, visualizing and downloading RS/EO data (#header-1)
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -21,6 +23,10 @@ alphabetically arranged so I am not organizing things according to my taste or p
 #### Landsat
 
 . USGS ESPA data ordering interface [link](https://espa.cr.usgs.gov)
+
+#### MODIS
+
+. MODIS Web Earth Observation Monitor (webEOM) [link](http://www.earth-observation-monitor.net)
 
 #### Multi-platform
 
@@ -31,6 +37,8 @@ alphabetically arranged so I am not organizing things according to my taste or p
 . NASA EarthData search [link](https://search.earthdata.nasa.gov)
 
 . USGS Earth/Explorer [link](https://earthexplorer.usgs.gov)
+
+. USGS GloVis [link](https://glovis.usgs.gov/)
 
 . Vito Data Portal [link](http://www.vito-eodata.be/PDF/portal/Application.html#Home)
 
@@ -45,7 +53,7 @@ alphabetically arranged so I am not organizing things according to my taste or p
 ### Commercial data
 
 
-## Learning RS/EO
+## Learning RS/EO <a name="header-2"></a>
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -63,33 +71,35 @@ alphabetically arranged so I am not organizing things according to my taste or p
 
 
 
-## RS & GIS open-source/free software
+## RS & GIS open-source/free software <a name="header-3"></a>
 
 -------------------------------------------------------------------------------------------------------------------
 
 ### Free software
 
-. ESA SNAP [link](http://step.esa.int/main/toolboxes/snap/)
+. ESA Sentinel Application Platform (SNAP) [link](http://step.esa.int/main/toolboxes/snap/)
 
 . ESA SNAP sen2cor (atmospheric correction module) [link](http://step.esa.int/main/third-party-plugins-2/sen2cor/)
 
 . Open Foris Geospatial Toolkit [link](http://www.openforis.org/tools/geospatial-toolkit.html)
 
+. SPIRITS (Software for the Processing and Interpretation of Remotely Sensed Image Time Series) [link](http://spirits.jrc.ec.europa.eu/overview/about/)
+
 ### R packages
 
 . Remote Sensing Toolbox (RSToolbox) [link](https://github.com/bleutner/RStoolbox)
 
-### Commercial
+### Commercial software
 
 
-## Cloud-based platforms for EO data processing
+## Cloud-based platforms for EO data processing <a name="header-4"></a>
 
 -------------------------------------------------------------------------------------------------------------------
 
-### Free
+### Free cloud-based platforms
 
 . Google Earth Engine [link 1](https://earthengine.google.com) [link 2](https://explorer.earthengine.google.com) [link 3](https://code.earthengine.google.com/)
 
-### Commercial
+### Commercial cloud-based platforms
 
 . Descartes Lab [link](https://descarteslabs.com/)
