@@ -1,4 +1,4 @@
-# What is this all about?
+# RS/EO directory - what is this all about?
 
 The Remote Sensing / Earth Observation directory is just another website (based on GitHub pages) where you can 
 find some useful resources in Remote Sensing (RS) & Earth Observation (EO). From data sources, learning resources, 
@@ -14,7 +14,7 @@ alphabetically arranged so I am not organizing things according to my taste or p
 - [RS & GIS open-source/free software](#header-3)
 - [Cloud-based platforms for EO data processing](#header-4)
 
-## Searching, visualizing and downloading RS/EO data (#header-1)
+## Searching, visualizing and downloading RS/EO data <a name="header-1"></a>
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -22,7 +22,9 @@ alphabetically arranged so I am not organizing things according to my taste or p
 
 #### Landsat
 
-. USGS ESPA data ordering interface [link](https://espa.cr.usgs.gov)
+. USGS ESPA Landsat data ordering interface [link](https://espa.cr.usgs.gov)
+
+. EarthNow! Landsat Image Viewer [link](https://earthnow.usgs.gov/observer/)
 
 #### MODIS
 
@@ -52,6 +54,14 @@ alphabetically arranged so I am not organizing things according to my taste or p
 
 ### Commercial data
 
+. DigitalGlobe [link](https://www.digitalglobe.com/)
+
+### RS/EO-based data sets/sources and products
+
+. ESA Climate Change Initiative (CCI) / Open Data Portal [link](http://cci.esa.int/)
+
+. Global Observation for Forest Cover and Land Dynamics (GOFC-GOLD) [link](http://www.gofcgold.wur.nl)
+
 
 ## Learning RS/EO <a name="header-2"></a>
 
@@ -61,9 +71,12 @@ alphabetically arranged so I am not organizing things according to my taste or p
 
 . NASA Applied Remote Sensing Training (ARSET) [link](https://arset.gsfc.nasa.gov/)
 
-
+. ESA course on FutureLearn: "Earth Observation from Space: the Optical View" [link](https://www.futurelearn.com/courses/optical-earth-observation)
 
 ### Books
+
+. 2016 . Remote Sensing and GIS for Ecologists - using Open Source Software [link](https://pelagicpublishing.com/products/remote-sensing-and-gis-for-ecologists-wegmann-leutner-dech)
+
 
 ### Other websites
 
@@ -81,15 +94,27 @@ alphabetically arranged so I am not organizing things according to my taste or p
 
 . ESA SNAP sen2cor (atmospheric correction module) [link](http://step.esa.int/main/third-party-plugins-2/sen2cor/)
 
+.  HyperMixTool - Hyperspectral imagery Tool [link](https://sourceforge.net/projects/hypermixtool/)
+
 . Open Foris Geospatial Toolkit [link](http://www.openforis.org/tools/geospatial-toolkit.html)
 
 . SPIRITS (Software for the Processing and Interpretation of Remotely Sensed Image Time Series) [link](http://spirits.jrc.ec.europa.eu/overview/about/)
 
+### Commercial software
+
+. Harris Geospatial ENVI [link](http://www.harrisgeospatial.com/ProductsandTechnology/Software/ENVI.aspx)
+
+. Clark Labs TerrSet/IDRISI [link](https://clarklabs.org/)
+
+. PCI Geomatics [link](http://www.pcigeomatics.com/)
+
+. Trimble eCognition [link](http://www.ecognition.com/)
+
 ### R packages
 
-. Remote Sensing Toolbox (RSToolbox) [link](https://github.com/bleutner/RStoolbox)
+. Creating and preprocessing MODIS time series (MODIStsp) [link 1](http://lbusett.github.io/MODIStsp/index.html) [link 2](https://github.com/lbusett/MODIStsp/)
 
-### Commercial software
+. Remote Sensing Toolbox (RSToolbox) [link](https://github.com/bleutner/RStoolbox)
 
 
 ## Cloud-based platforms for EO data processing <a name="header-4"></a>
@@ -103,3 +128,5 @@ alphabetically arranged so I am not organizing things according to my taste or p
 ### Commercial cloud-based platforms
 
 . Descartes Lab [link](https://descarteslabs.com/)
+
+. Raster Foundry [link](https://www.rasterfoundry.com/)
