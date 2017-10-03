@@ -14,12 +14,32 @@ preferences ;-) Let me know if you have suggestions to include here.
 # TOC
 
 - [Searching, visualizing and downloading RS/EO data](#header-1)
+  
+  - [Free satellite data](#header-1-1)
+    - [Multi-platform](#header-1-1-1)
+    - [Landsat](#header-1-1-2)
+    - [MODIS](#header-1-1-3)
+    - [Sentinel](#header-1-1-4)
+  - [Commercial satellite data](#header-1-2)
+  - [RS/EO-based data sets/sources and 'high-level' products](#header-1-3)
+  - [Catalogs and databases of EO missions](#header-1-4)
 
 - [Learning RS/EO](#header-2)
 
+  - [Courses](#header-2-1)
+  - [Books](#header-2-2)
+  - [Other websites](#header-2-3)
+
 - [RS & GIS open-source/free software](#header-3)
 
+  - [Free software](#header-3-1)
+  - [R packages](#header-3-2)
+  - [Commercial software](#header-3-2)
+
 - [Cloud-based platforms for EO data processing](#header-4)
+
+  - [Free cloud-based platforms](#header-4-1)
+  - [Commercial cloud-based platforms](#header-4-2)
 
 <br />
 
@@ -29,9 +49,9 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### Free satellite data
+### Free satellite data <a name="header-1-1"></a>
 
-#### Multi-platform
+#### Multi-platform <a name="header-1-1-1"></a>
 
 . Land Viewer EOS Data Analytics [link](https://lv.eosda.com)
 
@@ -47,17 +67,17 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . Vito Data Portal [link](http://www.vito-eodata.be/PDF/portal/Application.html#Home)
 
-#### Landsat
+#### Landsat <a name="header-1-1-2"></a>
 
 . USGS ESPA Landsat data ordering interface [link](https://espa.cr.usgs.gov)
 
 . EarthNow! Landsat Image Viewer [link](https://earthnow.usgs.gov/observer/)
 
-#### MODIS
+#### MODIS <a name="header-1-1-3"></a>
 
 . MODIS Web Earth Observation Monitor (webEOM) [link](http://www.earth-observation-monitor.net)
 
-#### Sentinel
+#### Sentinel <a name="header-1-1-4"></a>
 
 . BOKU Sentinel-2 data pre-processing service [link](https://s2.boku.eodc.eu)
 
@@ -69,7 +89,7 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### Commercial satellite data
+### Commercial satellite data <a name="header-1-2"></a>
 
 . Airbus Satellite Imagery [link](http://www.intelligence-airbusds.com/en/65-satellite-imagery)
 
@@ -77,7 +97,7 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### RS/EO-based data sets/sources and 'high-level' products
+### RS/EO-based data sets/sources and 'high-level' products <a name="header-1-3"></a>
 
 . Copernicus Land Monitoring Service/Products [link](http://land.copernicus.eu)
 
@@ -107,7 +127,7 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### Catalogs and databases of EO missions
+### Catalogs and databases of EO missions <a name="header-1-4"></a>
 
 . Dept. of Space / Indian Space Research Organization [link](http://www.isro.gov.in/spacecraft/list-of-earth-observation-satellites)
 
@@ -116,6 +136,8 @@ preferences ;-) Let me know if you have suggestions to include here.
 . ITC database of satellites and sensors [link](https://www.itc.nl/Pub/sensordb/AllSensors.aspx)
 
 . NASA missions [link](https://www.nasa.gov/content/earth-missions-list)
+
+. Observing Systems Capability Analysis and Review Tool (OSCAR / WMO) - List of satellites [link](https://www.wmo-sat.info/oscar/satellites)
 
 . Wikipedia List of Earth observation satellites [link](https://www.wikiwand.com/en/List_of_Earth_observation_satellites)
 
@@ -127,7 +149,7 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### Courses
+### Courses <a name="header-2-1"></a>
 
 . GIS and Earth Observation University courses [link](https://www.geo.university/)
 
@@ -139,7 +161,7 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### Books
+### Books <a name="header-2-2"></a>
 
 . 2016 . _Land Resources Monitoring, Modeling, and Mapping with Remote Sensing_ [link](https://www.crcpress.com/Land-Resources-Monitoring-Modeling-and-Mapping-with-Remote-Sensing/Thenkabail-PhD/p/book/9781482217957)
 
@@ -174,7 +196,7 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### Other websites
+### Other websites <a name="header-2-3"></a>
 
 . Copernicus EU YouTube channel [link](https://www.youtube.com/channel/UCpuwnbuwGG20enAdE50g6TA/videos)
 
@@ -194,7 +216,7 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### Free software
+### Free software <a name="header-3-1"></a>
 
 . E-foto (digital photogrammetric workstation) [link](http://www.efoto.eng.uerj.br/en) 
 
@@ -244,7 +266,7 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### R packages
+### R packages <a name="header-3-2"></a>
 
 . Acquisition and Processing of MODIS Products (_MODIS_) [link](https://cran.r-project.org/web/packages/MODIS/index.html)
 
@@ -276,7 +298,7 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### Commercial software
+### Commercial software <a name="header-3-3"></a>
 
 . Agisoft PhotoScan (photogrammetric processing of digital images and 3D spatial model generation) [link](http://www.agisoft.com/)
 
@@ -298,7 +320,7 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### Free cloud-based platforms
+### Free cloud-based platforms <a name="header-4-1"></a>
 
 . Google Earth Engine [link 1](https://earthengine.google.com) [link 2](https://explorer.earthengine.google.com) [link 3](https://code.earthengine.google.com/)
 
@@ -306,7 +328,7 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-### Commercial cloud-based platforms
+### Commercial cloud-based platforms <a name="header-4-2"></a>
 
 . Descartes Lab [link](https://descarteslabs.com/)
 
