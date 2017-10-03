@@ -85,6 +85,8 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . ESA Climate Change Initiative (CCI) / Open Data Portal [link](http://cci.esa.int/)
 
+. Global 1km Forest Canopy Height ICEsat/GLAS [link](https://webmap.ornl.gov/ogc/dataset.jsp?ds_id=10023)
+
 . Global Forest Cover Change (2000-2015) / U. Maryland [link](https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.3.html)
 
 . Global Land Cover Facility (GLCF) / U Maryland / NASA / GOFC-GOLD [link](http://glcf.umd.edu/data/)
@@ -102,6 +104,20 @@ preferences ;-) Let me know if you have suggestions to include here.
 . JRC Forest cover mapping (1990, 2000 and 2006) [link](http://forest.jrc.ec.europa.eu/activities/forest-mapping/)
 
 . USGS 30 Meter Global Land Cover [link](https://landcover.usgs.gov/glc/)
+
+<br />
+
+### Catalogs and databases of EO missions
+
+. Dept. of Space / Indian Space Research Organization [link](http://www.isro.gov.in/spacecraft/list-of-earth-observation-satellites)
+
+. ESA Satellite Missions Database [link](https://directory.eoportal.org/web/eoportal/satellite-missions)
+
+. ITC database of satellites and sensors [link](https://www.itc.nl/Pub/sensordb/AllSensors.aspx)
+
+. NASA missions [link](https://www.nasa.gov/content/earth-missions-list)
+
+. Wikipedia List of Earth observation satellites [link](https://www.wikiwand.com/en/List_of_Earth_observation_satellites)
 
 <br />
 
@@ -160,9 +176,15 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 ### Other websites
 
+. Copernicus EU YouTube channel [link](https://www.youtube.com/channel/UCpuwnbuwGG20enAdE50g6TA/videos)
+
 . Data recipes / Alaska Satellite Facility (ASF) [link](https://www.asf.alaska.edu/asf-tutorials/data-recipes)
 
+. ESA EO Open Science YouTube channel [link 1](https://www.youtube.com/channel/UCPnL3aynCQxTOjPttxMiS3Q) [link 2](http://eoopenscience.org/)
+
 . IDB (Index DataBase - database for remote sensing indices) [link](http://www.indexdatabase.de/)
+
+. Science Education through Earth Observation for High Schools (SEOS) Project tutorials [link](http://lms.seos-project.eu/learning_modules#)
 
 <br />
 
@@ -231,6 +253,10 @@ preferences ;-) Let me know if you have suggestions to include here.
 . Classes and Methods for Spatial Data (_sp_) [link](https://cran.r-project.org/web/packages/sp/index.html)
 
 . Creating and preprocessing MODIS time series (_MODIStsp_) [link 1](http://lbusett.github.io/MODIStsp/index.html) [link 2](https://github.com/lbusett/MODIStsp/)
+
+. Interactive editing of spatial data in R (_mapedit_) [link 1](https://cran.r-project.org/web/packages/mapedit/index.html) [link 2](https://github.com/r-spatial/mapedit)
+
+. Interactive viewing of spatial objects in R (_mapview_) [link 1](https://cran.r-project.org/web/packages/mapview/index.html) [link 2](https://github.com/r-spatial/mapview)
 
 . Interface to Geometry Engine - Open Source GEOS (_rgeos_) [link](https://cran.r-project.org/web/packages/rgeos/index.html)
 
