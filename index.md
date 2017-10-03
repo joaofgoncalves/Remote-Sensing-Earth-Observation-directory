@@ -9,6 +9,8 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 ![Copyright ESA](./imgs/s2_eo.jpg)
 
+<br />
+
 # TOC
 
 - [Searching, visualizing and downloading RS/EO data](#header-1)
@@ -19,11 +21,13 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 - [Cloud-based platforms for EO data processing](#header-4)
 
-
+<br />
 
 ## Searching, visualizing and downloading RS/EO data <a name="header-1"></a>
 
 -------------------------------------------------------------------------------------------------------------------
+
+<br />
 
 ### Free satellite data
 
@@ -35,7 +39,9 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . NASA EarthData search [link](https://search.earthdata.nasa.gov)
 
-. USGS Earth/Explorer [link](https://earthexplorer.usgs.gov)
+. Sinergise EO Browser [link](http://apps.sentinel-hub.com/eo-browser/)
+
+. USGS EarthExplorer [link](https://earthexplorer.usgs.gov)
 
 . USGS GloVis [link](https://glovis.usgs.gov/)
 
@@ -57,7 +63,11 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . ESA SciHub Sentinels Data [link](https://scihub.copernicus.eu/dhus)
 
+. Sentinel-2 World cloudless mosaic browser [link](https://s2maps.eu/)
+
 . Theia/CNES Sentinel-2 data pre-processing service [link](https://theia.cnes.fr/atdistrib/rocket/#/home)
+
+<br />
 
 ### Commercial satellite data
 
@@ -65,21 +75,41 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . DigitalGlobe [link](https://www.digitalglobe.com/)
 
+<br />
+
 ### RS/EO-based data sets/sources and 'high-level' products
 
 . Copernicus Land Monitoring Service/Products [link](http://land.copernicus.eu)
 
+. EarthEnv (global environmental layers for assessing status and trends in biodiversity, ecosystems, and climate) [link](http://www.earthenv.org/)
+
 . ESA Climate Change Initiative (CCI) / Open Data Portal [link](http://cci.esa.int/)
+
+. Global Forest Cover Change (2000-2015) / U. Maryland [link](https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.3.html)
+
+. Global Land Cover Facility (GLCF) / U Maryland / NASA / GOFC-GOLD [link](http://glcf.umd.edu/data/)
 
 . Global Observation for Forest Cover and Land Dynamics (GOFC-GOLD) [link](http://www.gofcgold.wur.nl)
 
+. Global PALSAR-2/PALSAR/JERS-1 Mosaic and Forest/Non-Forest map [link](http://www.eorc.jaxa.jp/ALOS/en/palsar_fnf/fnf_index.htm)
+
+. Global Tree Density dataset [link](http://elischolar.library.yale.edu/yale_fes_data/1/)
+
+. GLOBELAND30 (Global Land Cover data at 30m) [link](http://www.globallandcover.com/GLC30Download/index.aspx)
+
 . Harmonized Landsat / Sentinel data [link](https://hls.gsfc.nasa.gov/)
 
+. JRC Forest cover mapping (1990, 2000 and 2006) [link](http://forest.jrc.ec.europa.eu/activities/forest-mapping/)
 
+. USGS 30 Meter Global Land Cover [link](https://landcover.usgs.gov/glc/)
+
+<br />
 
 ## Learning RS/EO <a name="header-2"></a>
 
 -------------------------------------------------------------------------------------------------------------------
+
+<br />
 
 ### Courses
 
@@ -89,29 +119,66 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . ESA course on FutureLearn: _"Earth Observation from Space: the Optical View"_ [link](https://www.futurelearn.com/courses/optical-earth-observation)
 
-. ESA course on _"Radar Remote Sensing"_ at eo-college [link](https://eo-college.org/landingpage/)
+. ESA course on _"Radar Remote Sensing"_ at __eo-college__ [link](https://eo-college.org/landingpage/)
+
+<br />
 
 ### Books
 
+. 2016 . _Land Resources Monitoring, Modeling, and Mapping with Remote Sensing_ [link](https://www.crcpress.com/Land-Resources-Monitoring-Modeling-and-Mapping-with-Remote-Sensing/Thenkabail-PhD/p/book/9781482217957)
+
+. 2016 . _Practical Handbook of Remote Sensing_ [link](https://www.crcpress.com/Practical-Handbook-of-Remote-Sensing/Lavender-Lavender/p/book/9781498704335)
+
 . 2016 . _Remote Sensing and GIS for Ecologists - using Open Source Software_ [link](https://pelagicpublishing.com/products/remote-sensing-and-gis-for-ecologists-wegmann-leutner-dech)
+
+. 2016 . _Remote Sensing of Water Resources, Disasters, and Urban Studies_ [link](https://www.crcpress.com/Remote-Sensing-of-Water-Resources-Disasters-and-Urban-Studies/Thenkabail-PhD/p/book/9781482217919)
+
+. 2016 . _Remotely Sensed Data Characterization, Classification, and Accuracies_ [link](https://www.crcpress.com/Remotely-Sensed-Data-Characterization-Classification-and-Accuracies/Thenkabail-PhD/p/book/9781482217865)
+
+. 2015 . _Remote Sensing Image Fusion_ [link](https://www.crcpress.com/Remote-Sensing-Image-Fusion/Alparone-Aiazzi-Baronti-Garzelli/p/book/9781466587496)
+
+. 2015 . _Remote Sensing Time Series - Revealing Land Surface Dynamics_ [link](http://www.springer.com/br/book/9783319159669)
+
+. 2014 . _Remote Sensing of Natural Resources_ [link](https://www.crcpress.com/Remote-Sensing-of-Natural-Resources/Wang-Weng/p/book/9781466556928)
+
+. 2013 . _Advances in Mapping from Remote Sensor Imagery - Techniques and Applications_ [link](https://www.crcpress.com/Advances-in-Mapping-from-Remote-Sensor-Imagery-Techniques-and-Applications/Yang-Li/p/book/9781138072947)
+
+. 2012 . _Remote Sensing of Land Use and Land Cover: Principles and Applications_ [link](https://www.crcpress.com/Remote-Sensing-of-Land-Use-and-Land-Cover-Principles-and-Applications/Giri/p/book/9781420070743)
+
+. 2011 . _Advances in Environmental Remote Sensing - Sensors, Algorithms, and Applications_ [link](https://www.crcpress.com/Advances-in-Environmental-Remote-Sensing-Sensors-Algorithms-and-Applications/Weng/p/book/9781138072916)
+
+. 2011 . _Introduction to Remote Sensing, Fifth Edition_ [link](https://www.amazon.com/Introduction-Remote-Sensing-Fifth-Campbell/dp/160918176X)
+
+. 2008 . _Advances in Land Remote Sensing System, Modeling, Inversion and Application_ [link](http://www.springer.com/la/book/9781402064494)
+
+. 2008 . _Earth Observation of Global Change - The Role of Satellite Remote Sensing in Monitoring the Global Environment_ [link](http://www.springer.com/la/book/9781402063572)
+
+. 2006 . _Remote sensing of the environment: an earth resource perspective_ [link](https://www.amazon.com/Remote-Sensing-Environment-Resource-Perspective/dp/0131889508/ref=la_B001H6Q89S_1_1?s=books&ie=UTF8&qid=1506998752&sr=1-1)
+
+
+<br />
 
 ### Other websites
 
 . Data recipes / Alaska Satellite Facility (ASF) [link](https://www.asf.alaska.edu/asf-tutorials/data-recipes)
 
+. IDB (Index DataBase - database for remote sensing indices) [link](http://www.indexdatabase.de/)
 
+<br />
 
 ## RS & GIS open-source/free software <a name="header-3"></a>
 
 -------------------------------------------------------------------------------------------------------------------
 
+<br />
+
 ### Free software
 
 . E-foto (digital photogrammetric workstation) [link](http://www.efoto.eng.uerj.br/en) 
 
-. EnMAP-Box - software for processing RS hyperspectral data [link](http://www.enmap.org/?q=enmapbox)
+. EnMAP-Box (software for processing hyper- and multispectral data) [link](http://www.enmap.org/?q=enmapbox)
 
-. ESA Sentinel Application Platform (SNAP) [link](http://step.esa.int/main/toolboxes/snap/)
+. ESA SNAP (Sentinel Application Platform) [link](http://step.esa.int/main/toolboxes/snap/)
 
 . ESA SNAP sen2cor (atmospheric correction module) [link](http://step.esa.int/main/third-party-plugins-2/sen2cor/)
 
@@ -123,9 +190,9 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . INTERIMAGE (open-source, knowledge-based framework for automatic image interpretation) [link](http://www.lvc.ele.puc-rio.br/projects/interimage/)
 
-. HyperMixTool - Hyperspectral imagery Tool [link](https://sourceforge.net/projects/hypermixtool/)
+. HyperMixTool (hyperspectral imagery tool) [link](https://sourceforge.net/projects/hypermixtool/)
 
-. MultiSpec (Freeware Multispectral Image Data Analysis System) [link](https://engineering.purdue.edu/~biehl/MultiSpec/index.html)
+. MultiSpec (freeware multispectral image data analysis system) [link](https://engineering.purdue.edu/~biehl/MultiSpec/index.html)
 
 . Open Foris Geospatial Toolkit [link](http://www.openforis.org/tools/geospatial-toolkit.html)
 
@@ -135,13 +202,13 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . Optiks (expandable remote sensing and imagery analysis software platform) [link](https://opticks.org/)
 
-. OSSIM (Advanced image processing and geospatial data fusion software) [link](https://trac.osgeo.org/ossim/)
+. OSSIM (advanced image processing and geospatial data fusion software) [link](https://trac.osgeo.org/ossim/)
 
-. polSARpro (Polarimetric SAR Data Processing and Educational tool) [link 1](https://www.ietr.fr/polsarpro/) [link 2](https://earth.esa.int/web/polsarpro)
+. polSARpro (polarimetric SAR data processing and educational tool) [link 1](https://www.ietr.fr/polsarpro/) [link 2](https://earth.esa.int/web/polsarpro)
 
 . QuantumGIS [link](http://www.qgis.org/en/site)
 
-. Remote Sensing and GIS Software Library (RSGISLib) [link](http://rsgislib.org/)
+. RSGISLib (Remote Sensing and GIS Software Library) [link](http://rsgislib.org/)
 
 . SAGA GIS [link](http://www.saga-gis.org/en/index.html)
 
@@ -152,6 +219,8 @@ preferences ;-) Let me know if you have suggestions to include here.
 . TerraView / TerraLib [link](http://www.dpi.inpe.br/terralib5/wiki/doku.php)
 
 . Whitebox GAT (Geospatial Analysis Tools) [link](http://www.uoguelph.ca/~hydrogeo/Whitebox/)
+
+<br />
 
 ### R packages
 
@@ -171,13 +240,15 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . Radiometric and topographic correction of satellite imagery (_landsat_) [link](https://cran.r-project.org/web/packages/landsat/index.html)
 
-. Raster I/O, handling and manipulation / Geographic Data Analysis and Modeling (_raster_) [link](https://cran.r-project.org/web/packages/raster/index.html)
+. Geographic Data Analysis and Modeling of raster data (_raster_) [link](https://cran.r-project.org/web/packages/raster/index.html)
 
 . Remote Sensing Toolbox (_RSToolbox_) [link](https://github.com/bleutner/RStoolbox)
 
 . Simple Features for R / Encode and analyze spatial vector data (_sf_) [link 1](https://cran.r-project.org/web/packages/sf/index.html) [link 2](https://github.com/r-spatial/sf)
 
 . Tools for Reading and Handling Spatial Objects (_maptools_) [link](https://cran.r-project.org/web/packages/maptools/index.html)
+
+<br />
 
 ### Commercial software
 
@@ -193,17 +264,21 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . Trimble eCognition [link](http://www.ecognition.com/)
 
-
+<br />
 
 ## Cloud-based platforms for EO data processing <a name="header-4"></a>
 
 -------------------------------------------------------------------------------------------------------------------
+
+<br />
 
 ### Free cloud-based platforms
 
 . Google Earth Engine [link 1](https://earthengine.google.com) [link 2](https://explorer.earthengine.google.com) [link 3](https://code.earthengine.google.com/)
 
 . ESA Earth Science Data Cube (ESDC) [link 1](http://earthsystemdatacube.net) [link 2](https://github.com/CAB-LAB)
+
+<br />
 
 ### Commercial cloud-based platforms
 
