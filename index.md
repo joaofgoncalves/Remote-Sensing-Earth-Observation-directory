@@ -11,10 +11,10 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 <br />
 
-# TOC
+## Table of contents
 
 - [Searching, visualizing and downloading RS/EO data](#header-1)
-  
+
   - [Free satellite data](#header-1-1)
     - [Multi-platform](#header-1-1-1)
     - [Landsat](#header-1-1-2)
@@ -37,7 +37,6 @@ preferences ;-) Let me know if you have suggestions to include here.
   - [Commercial software](#header-3-2)
 
 - [Cloud-based platforms for EO data processing](#header-4)
-
   - [Free cloud-based platforms](#header-4-1)
   - [Commercial cloud-based platforms](#header-4-2)
 
@@ -53,11 +52,15 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 #### Multi-platform <a name="header-1-1-1"></a>
 
+. ESA EOLi (ESA client for Earth Observation Catalogue and Ordering Services / not web-based) [link](https://earth.esa.int/web/guest/eoli)
+
 . Land Viewer EOS Data Analytics [link](https://lv.eosda.com)
 
 . NASA Earth Observations (NEO) [link](https://neo.sci.gsfc.nasa.gov)
 
 . NASA EarthData search [link](https://search.earthdata.nasa.gov)
+
+. Planet Explorer Beta [link](https://www.planet.com/explorer)
 
 . Sinergise EO Browser [link](http://apps.sentinel-hub.com/eo-browser/)
 
@@ -93,21 +96,33 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . Airbus Satellite Imagery [link](http://www.intelligence-airbusds.com/en/65-satellite-imagery)
 
-. DigitalGlobe [link](https://www.digitalglobe.com/)
+. ASTRO DIGITAL [link](https://astrodigital.com/)
+
+. DigitalGlobe [link](https://www.digitalglobe.com)
+
+. Planet Labs [link](https://www.planet.com)
+
+. SkyWatch / Techstars [link](https://www.skywatch.co)
+
+. Urthecast [link](https://www.urthecast.com)
 
 <br />
 
 ### RS/EO-based data sets/sources and 'high-level' products <a name="header-1-3"></a>
 
+. ASTER GDEM Elevation data [link 1](https://asterweb.jpl.nasa.gov/gdem.asp) [link 2](http://www.jspacesystems.or.jp/ersdac/GDEM/E/index.html)
+
 . Copernicus Land Monitoring Service/Products [link](http://land.copernicus.eu)
 
-. EarthEnv (global environmental layers for assessing status and trends in biodiversity, ecosystems, and climate) [link](http://www.earthenv.org/)
+. EarthEnv (global environmental layers for assessing status and trends in biodiversity, ecosystems, and climate) [link](http://www.earthenv.org)
 
-. ESA Climate Change Initiative (CCI) / Open Data Portal [link](http://cci.esa.int/)
+. ESA Climate Change Initiative (CCI) / Open Data Portal [link](http://cci.esa.int)
 
 . Global 1km Forest Canopy Height ICEsat/GLAS [link](https://webmap.ornl.gov/ogc/dataset.jsp?ds_id=10023)
 
 . Global Forest Cover Change (2000-2015) / U. Maryland [link](https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.3.html)
+
+. Global Forest Watch [link](http://www.globalforestwatch.org)
 
 . Global Land Cover Facility (GLCF) / U Maryland / NASA / GOFC-GOLD [link](http://glcf.umd.edu/data/)
 
@@ -121,9 +136,15 @@ preferences ;-) Let me know if you have suggestions to include here.
 
 . Harmonized Landsat / Sentinel data [link](https://hls.gsfc.nasa.gov/)
 
-. JRC Forest cover mapping (1990, 2000 and 2006) [link](http://forest.jrc.ec.europa.eu/activities/forest-mapping/)
+. JAXA ALOS Global Digital Surface Model "ALOS World 3D - 30m" (AW3D30) [link](http://www.eorc.jaxa.jp/ALOS/en/aw3d30/)
+
+. JRC Forest cover mapping (1990, 2000 and 2006) [link](http://forest.jrc.ec.europa.eu/activities/forest-mapping)
+
+. NOAA/EOG/NCEI (nighttime observations of lights and combustion sources worldwide) [link](https://ngdc.noaa.gov/eog/index.html)
 
 . USGS 30 Meter Global Land Cover [link](https://landcover.usgs.gov/glc/)
+
+. USGS Early Warning and Environmental Monitoring Program (EWEM) [link](https://earlywarning.usgs.gov)
 
 <br />
 
@@ -217,6 +238,8 @@ preferences ;-) Let me know if you have suggestions to include here.
 <br />
 
 ### Free software <a name="header-3-1"></a>
+
+. DIVA-GIS [link](http://www.diva-gis.org/)
 
 . E-foto (digital photogrammetric workstation) [link](http://www.efoto.eng.uerj.br/en) 
 
