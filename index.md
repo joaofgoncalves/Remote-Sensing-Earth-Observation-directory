@@ -23,22 +23,24 @@ preferences ;-) Let me know if you have suggestions to include here.
   - [Commercial satellite data](#header-1-2)
   - [RS/EO-based data sets/sources and 'high-level' products](#header-1-3)
   - [Catalogs and databases of EO missions](#header-1-4)
-
+    
 - [Learning RS/EO](#header-2)
 
   - [Courses](#header-2-1)
   - [Books](#header-2-2)
   - [Other websites](#header-2-3)
-
+    
 - [RS & GIS open-source/free software](#header-3)
 
   - [Free software](#header-3-1)
   - [R packages](#header-3-2)
   - [Commercial software](#header-3-2)
-
+    
 - [Cloud-based platforms for EO data processing](#header-4)
   - [Free cloud-based platforms](#header-4-1)
   - [Commercial cloud-based platforms](#header-4-2)
+
+This document is also available in PDF format [link](./index.pdf)
 
 <br />
 
@@ -328,6 +330,8 @@ preferences ;-) Let me know if you have suggestions to include here.
 . ESRI ArcGIS [link](http://www.enmap.org/?q=enmapbox)
 
 . Harris Geospatial ENVI [link](http://www.harrisgeospatial.com/ProductsandTechnology/Software/ENVI.aspx)
+
+. Hexagon Geospatial ERDAS IMAGINE [link](http://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine)
 
 . Clark Labs TerrSet/IDRISI [link](https://clarklabs.org/)
 
