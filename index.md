@@ -23,24 +23,28 @@ preferences ;-) Let me know if you have suggestions to include here.
   - [Commercial satellite data](#header-1-2)
   - [RS/EO-based data sets/sources and 'high-level' products](#header-1-3)
   - [Catalogs and databases of EO missions](#header-1-4)
-    
+  
+
 - [Learning RS/EO](#header-2)
 
   - [Courses](#header-2-1)
   - [Books](#header-2-2)
   - [Other websites](#header-2-3)
-    
+
+  
 - [RS & GIS open-source/free software](#header-3)
 
   - [Free software](#header-3-1)
   - [R packages](#header-3-2)
   - [Commercial software](#header-3-2)
-    
+
+
 - [Cloud-based platforms for EO data processing](#header-4)
   - [Free cloud-based platforms](#header-4-1)
   - [Commercial cloud-based platforms](#header-4-2)
 
-This document is also available in PDF format [link](./index.pdf)
+
+This page is also available in PDF format [link](./index.pdf)
 
 <br />
 
@@ -180,7 +184,7 @@ This document is also available in PDF format [link](./index.pdf)
 
 . ESA course on FutureLearn: _"Earth Observation from Space: the Optical View"_ [link](https://www.futurelearn.com/courses/optical-earth-observation)
 
-. ESA course on _"Radar Remote Sensing"_ at __eo-college__ [link](https://eo-college.org/landingpage/)
+. ESA course on _"Radar Remote Sensing"_ at _eo-college_ [link](https://eo-college.org/landingpage/)
 
 <br />
 
@@ -210,6 +214,8 @@ This document is also available in PDF format [link](./index.pdf)
 
 . 2011 . _Introduction to Remote Sensing, Fifth Edition_ [link](https://www.amazon.com/Introduction-Remote-Sensing-Fifth-Campbell/dp/160918176X)
 
+. 2010 . _Remote Sensing for Ecology and Conservation - A Handbook of Techniques_ [link](https://global.oup.com/academic/product/remote-sensing-for-ecology-and-conservation-9780199219957?cc=pt&lang=en&)
+
 . 2008 . _Advances in Land Remote Sensing System, Modeling, Inversion and Application_ [link](http://www.springer.com/la/book/9781402064494)
 
 . 2008 . _Earth Observation of Global Change - The Role of Satellite Remote Sensing in Monitoring the Global Environment_ [link](http://www.springer.com/la/book/9781402063572)
@@ -219,7 +225,7 @@ This document is also available in PDF format [link](./index.pdf)
 
 <br />
 
-### Other websites <a name="header-2-3"></a>
+### Tutorials and other useful websites <a name="header-2-3"></a>
 
 . Copernicus EU YouTube channel [link](https://www.youtube.com/channel/UCpuwnbuwGG20enAdE50g6TA/videos)
 
@@ -230,6 +236,8 @@ This document is also available in PDF format [link](./index.pdf)
 . IDB (Index DataBase - database for remote sensing indices) [link](http://www.indexdatabase.de/)
 
 . Science Education through Earth Observation for High Schools (SEOS) Project tutorials [link](http://lms.seos-project.eu/learning_modules#)
+
+. Tutorial: Fundamentals of Remote Sensing (_Natural Resources Canada_) [link](http://www.nrcan.gc.ca/node/9309)
 
 <br />
 
@@ -275,6 +283,8 @@ This document is also available in PDF format [link](./index.pdf)
 
 . polSARpro (polarimetric SAR data processing and educational tool) [link 1](https://www.ietr.fr/polsarpro/) [link 2](https://earth.esa.int/web/polsarpro)
 
+. PostGIS (support for geographic objects to the PostgreSQL object-relational database) [link](http://postgis.refractions.net/)
+
 . QuantumGIS [link](http://www.qgis.org/en/site)
 
 . RSGISLib (Remote Sensing and GIS Software Library) [link](http://rsgislib.org/)
@@ -286,6 +296,8 @@ This document is also available in PDF format [link](./index.pdf)
 . SPRING [link](http://www.dpi.inpe.br/spring/english/)
 
 . TerraView / TerraLib [link](http://www.dpi.inpe.br/terralib5/wiki/doku.php)
+
+. uDig (Java solution for desktop GIS data access, editing, and viewing) [link](http://udig.refractions.net/)
 
 . Whitebox GAT (Geospatial Analysis Tools) [link](http://www.uoguelph.ca/~hydrogeo/Whitebox/)
 
@@ -327,7 +339,7 @@ This document is also available in PDF format [link](./index.pdf)
 
 . Agisoft PhotoScan (photogrammetric processing of digital images and 3D spatial model generation) [link](http://www.agisoft.com/)
 
-. ESRI ArcGIS [link](http://www.enmap.org/?q=enmapbox)
+. ESRI ArcGIS [link](http://desktop.arcgis.com/en/)
 
 . Harris Geospatial ENVI [link](http://www.harrisgeospatial.com/ProductsandTechnology/Software/ENVI.aspx)
 
