@@ -23,26 +23,22 @@ preferences ;-) Let me know if you have suggestions to include here.
   - [Commercial satellite data](#header-1-2)
   - [RS/EO-based data sets/sources and 'high-level' products](#header-1-3)
   - [Catalogs and databases of EO missions](#header-1-4)
-  
-
+  <br />
 - [Learning RS/EO](#header-2)
 
   - [Courses](#header-2-1)
   - [Books](#header-2-2)
   - [Other websites](#header-2-3)
-
-  
+<br />
 - [RS & GIS open-source/free software](#header-3)
 
   - [Free software](#header-3-1)
   - [R packages](#header-3-2)
   - [Commercial software](#header-3-2)
-
-
+<br />
 - [Cloud-based platforms for EO data processing](#header-4)
   - [Free cloud-based platforms](#header-4-1)
   - [Commercial cloud-based platforms](#header-4-2)
-
 
 This page is also available in PDF format [link](./index.pdf)
 
@@ -186,6 +182,8 @@ This page is also available in PDF format [link](./index.pdf)
 
 . ESA course on _"Radar Remote Sensing"_ at _eo-college_ [link](https://eo-college.org/landingpage/)
 
+. ESA Radar Courses / Earth Online [link](https://earth.esa.int/web/guest/missions/esa-operational-eo-missions/ers/instruments/sar/applications/radar-courses)
+
 <br />
 
 ### Books <a name="header-2-2"></a>
@@ -220,7 +218,7 @@ This page is also available in PDF format [link](./index.pdf)
 
 . 2008 . _Earth Observation of Global Change - The Role of Satellite Remote Sensing in Monitoring the Global Environment_ [link](http://www.springer.com/la/book/9781402063572)
 
-. 2006 . _Remote sensing of the environment: an earth resource perspective_ [link](https://www.amazon.com/Remote-Sensing-Environment-Resource-Perspective/dp/0131889508/ref=la_B001H6Q89S_1_1?s=books&ie=UTF8&qid=1506998752&sr=1-1)
+. 2006 . _Remote sensing of the environment: an Earth resource perspective_ [link](https://www.amazon.com/Remote-Sensing-Environment-Resource-Perspective/dp/0131889508/ref=la_B001H6Q89S_1_1?s=books&ie=UTF8&qid=1506998752&sr=1-1)
 
 
 <br />
@@ -234,6 +232,8 @@ This page is also available in PDF format [link](./index.pdf)
 . ESA EO Open Science YouTube channel [link 1](https://www.youtube.com/channel/UCPnL3aynCQxTOjPttxMiS3Q) [link 2](http://eoopenscience.org/)
 
 . IDB (Index DataBase - database for remote sensing indices) [link](http://www.indexdatabase.de/)
+
+. NASA - "The Electromagnetic Spectrum" website/booklet / Science Mission Directorate [link](https://science.nasa.gov/ems/)
 
 . Science Education through Earth Observation for High Schools (SEOS) Project tutorials [link](http://lms.seos-project.eu/learning_modules#)
 
