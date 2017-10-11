@@ -22,20 +22,29 @@ preferences ;-) Let me know if you have suggestions to include here.
     - [Sentinel](#header-1-1-4)
   - [Commercial satellite data](#header-1-2)
   - [RS/EO-based data sets/sources and 'high-level' products](#header-1-3)
+    - [Digital Elevation/Surface Models](#header-1-3-1)
+    - [Forest data layers](#header-1-3-2)
+    - [Fused data sets](#header-1-3-3)
+    - [Land cover / land use](#header-1-3-4)
+    - [Monitoring programmes/initiatives](#header-1-3-5)
+    - [Multiple themes](#header-1-3-6)
   - [Catalogs and databases of EO missions](#header-1-4)
-  <br />
+<br />
+
 - [Learning RS/EO](#header-2)
 
   - [Courses](#header-2-1)
   - [Books](#header-2-2)
   - [Other websites](#header-2-3)
 <br />
+
 - [RS & GIS open-source/free software](#header-3)
 
   - [Free software](#header-3-1)
   - [R packages](#header-3-2)
   - [Commercial software](#header-3-2)
 <br />
+
 - [Cloud-based platforms for EO data processing](#header-4)
   - [Free cloud-based platforms](#header-4-1)
   - [Commercial cloud-based platforms](#header-4-2)
@@ -110,19 +119,37 @@ This page is also available in PDF format [link](./index.pdf)
 
 <br />
 
-### RS/EO-based data sets/sources and 'high-level' products <a name="header-1-3"></a>
+### RS/EO-based data sets, data sources and 'high-level' products <a name="header-1-3"></a>
+
+#### Digital Elevation/Surface Models <a name="header-1-3-1"></a>
 
 . ASTER GDEM Elevation data [link 1](https://asterweb.jpl.nasa.gov/gdem.asp) [link 2](http://www.jspacesystems.or.jp/ersdac/GDEM/E/index.html)
 
-. Copernicus Land Monitoring Service/Products [link](http://land.copernicus.eu)
+. JAXA ALOS Global Digital Surface Model "ALOS World 3D - 30m" (AW3D30) [link](http://www.eorc.jaxa.jp/ALOS/en/aw3d30/)
 
-. EarthEnv (global environmental layers for assessing status and trends in biodiversity, ecosystems, and climate) [link](http://www.earthenv.org)
-
-. ESA Climate Change Initiative (CCI) / Open Data Portal [link](http://cci.esa.int)
+#### Forest data layers <a name="header-1-3-2"></a>
 
 . Global 1km Forest Canopy Height ICEsat/GLAS [link](https://webmap.ornl.gov/ogc/dataset.jsp?ds_id=10023)
 
 . Global Forest Cover Change (2000-2015) / U. Maryland [link](https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.3.html)
+
+. Global PALSAR-2/PALSAR/JERS-1 Mosaic and Forest/Non-Forest map [link](http://www.eorc.jaxa.jp/ALOS/en/palsar_fnf/fnf_index.htm)
+
+. Global Tree Density dataset [link](http://elischolar.library.yale.edu/yale_fes_data/1/)
+
+. JRC Forest cover mapping (1990, 2000 and 2006) [link](http://forest.jrc.ec.europa.eu/activities/forest-mapping)
+
+#### Fused data sets <a name="header-1-3-3"></a>
+
+. Harmonized Landsat / Sentinel data [link](https://hls.gsfc.nasa.gov/)
+
+#### Land cover / land use <a name="header-1-3-4"></a>
+
+. GLOBELAND30 (Global Land Cover data at 30m) [link](http://www.globallandcover.com/GLC30Download/index.aspx)
+
+. USGS 30 Meter Global Land Cover [link](https://landcover.usgs.gov/glc/)
+
+#### Monitoring programmes/initiatives <a name="header-1-3-5"></a>
 
 . Global Forest Watch [link](http://www.globalforestwatch.org)
 
@@ -130,25 +157,20 @@ This page is also available in PDF format [link](./index.pdf)
 
 . Global Observation for Forest Cover and Land Dynamics (GOFC-GOLD) [link](http://www.gofcgold.wur.nl)
 
-. Global PALSAR-2/PALSAR/JERS-1 Mosaic and Forest/Non-Forest map [link](http://www.eorc.jaxa.jp/ALOS/en/palsar_fnf/fnf_index.htm)
+. USGS Early Warning and Environmental Monitoring Program (EWEM) [link](https://earlywarning.usgs.gov)
 
-. Global Tree Density dataset [link](http://elischolar.library.yale.edu/yale_fes_data/1/)
+#### Multiple themes (land cover, vegetation, water, energy, climate, ...) <a name="header-1-3-6"></a>
 
-. GLOBELAND30 (Global Land Cover data at 30m) [link](http://www.globallandcover.com/GLC30Download/index.aspx)
+. Copernicus Land Monitoring Service and high-level products [link](http://land.copernicus.eu)
 
-. Harmonized Landsat / Sentinel data [link](https://hls.gsfc.nasa.gov/)
+. ESA Climate Change Initiative (CCI) / Open Data Portal [link](http://cci.esa.int)
 
-. JAXA ALOS Global Digital Surface Model "ALOS World 3D - 30m" (AW3D30) [link](http://www.eorc.jaxa.jp/ALOS/en/aw3d30/)
-
-. JRC Forest cover mapping (1990, 2000 and 2006) [link](http://forest.jrc.ec.europa.eu/activities/forest-mapping)
+. EarthEnv (global environmental layers for assessing status and trends in biodiversity, ecosystems, and climate) [link](http://www.earthenv.org)
 
 . NOAA/EOG/NCEI (nighttime observations of lights and combustion sources worldwide) [link](https://ngdc.noaa.gov/eog/index.html)
 
-. USGS 30 Meter Global Land Cover [link](https://landcover.usgs.gov/glc/)
-
-. USGS Early Warning and Environmental Monitoring Program (EWEM) [link](https://earlywarning.usgs.gov)
-
 <br />
+
 
 ### Catalogs and databases of EO missions <a name="header-1-4"></a>
 
@@ -234,6 +256,8 @@ This page is also available in PDF format [link](./index.pdf)
 . IDB (Index DataBase - database for remote sensing indices) [link](http://www.indexdatabase.de/)
 
 . NASA - "The Electromagnetic Spectrum" website/booklet / Science Mission Directorate [link](https://science.nasa.gov/ems/)
+
+. SAR/EDU - Remote Sensing Education Initiative [link](https://saredu.dlr.de/)
 
 . Science Education through Earth Observation for High Schools (SEOS) Project tutorials [link](http://lms.seos-project.eu/learning_modules#)
 
