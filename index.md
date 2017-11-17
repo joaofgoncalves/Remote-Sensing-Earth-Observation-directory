@@ -79,6 +79,8 @@ This page is also available in PDF format [link](./index.pdf)
 
 . USGS GloVis [link](https://glovis.usgs.gov/)
 
+. Vertex - Alaska Satellite Facility (ASF) Data Portal [link](https://vertex.daac.asf.alaska.edu/)
+
 . Vito Data Portal [link](http://www.vito-eodata.be/PDF/portal/Application.html#Home)
 
 #### Landsat <a name="header-1-1-2"></a>
@@ -131,7 +133,7 @@ This page is also available in PDF format [link](./index.pdf)
 
 . Global 1km Forest Canopy Height ICEsat/GLAS [link](https://webmap.ornl.gov/ogc/dataset.jsp?ds_id=10023)
 
-. Global Forest Cover Change (2000-2015) / U. Maryland [link](https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.3.html)
+. Global Forest Cover Change v-1.4 (2000-2016) / U. Maryland [link 1](https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.4.html) [link 2](https://earthenginepartners.appspot.com/science-2013-global-forest)
 
 . Global PALSAR-2/PALSAR/JERS-1 Mosaic and Forest/Non-Forest map [link](http://www.eorc.jaxa.jp/ALOS/en/palsar_fnf/fnf_index.htm)
 
@@ -255,7 +257,13 @@ This page is also available in PDF format [link](./index.pdf)
 
 . IDB (Index DataBase - database for remote sensing indices) [link](http://www.indexdatabase.de/)
 
+. Intro2Radar by Iain Woodhouse [link](https://www.geos.ed.ac.uk/~ihw/hype/radar/intro2radar.html)
+
 . NASA - "The Electromagnetic Spectrum" website/booklet / Science Mission Directorate [link](https://science.nasa.gov/ems/)
+
+. SAR tutorial/glossary by ESA [link](https://earth.esa.int/handbooks/asar/toc.html)
+
+. SAR tutorial basics [link](http://www.radartutorial.eu/20.airborne/ab07.en.html)
 
 . SAR/EDU - Remote Sensing Education Initiative [link](https://saredu.dlr.de/)
 
