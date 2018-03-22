@@ -99,6 +99,8 @@ This page is also available in PDF format [link](./index.pdf)
 
 . ESA SciHub Sentinels Data [link](https://scihub.copernicus.eu/dhus)
 
+. IPSentinel - Sentinel data hub for Portugal [link](https://ipsentinel.ipma.pt/)
+
 . Sentinel-2 World cloudless mosaic browser [link](https://s2maps.eu/)
 
 . Theia/CNES Sentinel-2 data pre-processing service [link](https://theia.cnes.fr/atdistrib/rocket/#/home)
@@ -171,6 +173,10 @@ This page is also available in PDF format [link](./index.pdf)
 
 . NOAA/EOG/NCEI (nighttime observations of lights and combustion sources worldwide) [link](https://ngdc.noaa.gov/eog/index.html)
 
+. SEDAAC datasets (mangroves, fires, urban extent, demography, etc) [link](http://sedac.ciesin.columbia.edu/data/sets/browse)
+
+. WCMC-UNEP datasets (biodiversity, SST, ecoregions, protected areas, mangrove ecosystems, marine species, coral reefs, ...) [link](http://data.unep-wcmc.org/)
+
 <br />
 
 
@@ -179,6 +185,8 @@ This page is also available in PDF format [link](./index.pdf)
 . Dept. of Space / Indian Space Research Organization [link](http://www.isro.gov.in/spacecraft/list-of-earth-observation-satellites)
 
 . ESA Satellite Missions Database [link](https://directory.eoportal.org/web/eoportal/satellite-missions)
+
+. Gunter's Space Page (space missions) [link](http://space.skyrocket.de/index.html)
 
 . ITC database of satellites and sensors [link](https://www.itc.nl/Pub/sensordb/AllSensors.aspx)
 
@@ -197,6 +205,9 @@ This page is also available in PDF format [link](./index.pdf)
 <br />
 
 ### Courses <a name="header-2-1"></a>
+
+. Australian National University / Water & Landscape dynamics / 
+Advanced remote sensing course resources [link](http://www.wenfo.org/wald/advanced-remote-sensing)
 
 . GIS and Earth Observation University courses [link](https://www.geo.university/)
 
@@ -249,6 +260,8 @@ This page is also available in PDF format [link](./index.pdf)
 
 ### Tutorials and other useful websites <a name="header-2-3"></a>
 
+. Awesome Sentinel - a curated list of data endpoints, tools for CopernicusEU Sentinel data [link](http://krstn.eu/awesome-Sentinel/)
+
 . Copernicus EU YouTube channel [link](https://www.youtube.com/channel/UCpuwnbuwGG20enAdE50g6TA/videos)
 
 . Data recipes / Alaska Satellite Facility (ASF) [link](https://www.asf.alaska.edu/asf-tutorials/data-recipes)
@@ -290,6 +303,8 @@ This page is also available in PDF format [link](./index.pdf)
 . ESA SNAP (Sentinel Application Platform) [link](http://step.esa.int/main/toolboxes/snap/)
 
 . ESA SNAP sen2cor (atmospheric correction module) [link](http://step.esa.int/main/third-party-plugins-2/sen2cor/)
+
+. GeoVIS .net (software for photo-interpretation, classification and geo data management) [link](http://www.geovis.net/Downloads.htm)
 
 . GRASS GIS [link](https://grass.osgeo.org/)
 
@@ -396,6 +411,8 @@ This page is also available in PDF format [link](./index.pdf)
 . Google Earth Engine [link 1](https://earthengine.google.com) [link 2](https://explorer.earthengine.google.com) [link 3](https://code.earthengine.google.com/)
 
 . ESA Earth Science Data Cube (ESDC) [link 1](http://earthsystemdatacube.net) [link 2](https://github.com/CAB-LAB)
+
+. remap (large-scale ecosystem mapping and assessment) [link](https://remap-app.org/)
 
 <br />
 
