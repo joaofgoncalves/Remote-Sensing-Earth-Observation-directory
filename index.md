@@ -27,7 +27,8 @@ preferences ;-) Let me know if you have suggestions to include here.
     - [Fused data sets](#header-1-3-3)
     - [Land cover / land use](#header-1-3-4)
     - [Monitoring programmes/initiatives](#header-1-3-5)
-    - [Multiple themes](#header-1-3-6)
+    - [Fires](#header-1-3-6)
+    - [Multiple themes](#header-1-3-7)
   - [Catalogs and databases of EO missions](#header-1-4)
 <br />
 
@@ -125,11 +126,13 @@ This page is also available in PDF format [link](./index.pdf)
 
 ### RS/EO-based data sets, data sources and 'high-level' products <a name="header-1-3"></a>
 
+
 #### Digital Elevation/Surface Models <a name="header-1-3-1"></a>
 
 . ASTER GDEM Elevation data [link 1](https://asterweb.jpl.nasa.gov/gdem.asp) [link 2](http://www.jspacesystems.or.jp/ersdac/GDEM/E/index.html)
 
 . JAXA ALOS Global Digital Surface Model "ALOS World 3D - 30m" (AW3D30) [link](http://www.eorc.jaxa.jp/ALOS/en/aw3d30/)
+
 
 #### Forest data layers <a name="header-1-3-2"></a>
 
@@ -143,15 +146,18 @@ This page is also available in PDF format [link](./index.pdf)
 
 . JRC Forest cover mapping (1990, 2000 and 2006) [link](http://forest.jrc.ec.europa.eu/activities/forest-mapping)
 
+
 #### Fused data sets <a name="header-1-3-3"></a>
 
 . Harmonized Landsat / Sentinel data [link](https://hls.gsfc.nasa.gov/)
+
 
 #### Land cover / land use <a name="header-1-3-4"></a>
 
 . GLOBELAND30 (Global Land Cover data at 30m) [link](http://www.globallandcover.com/GLC30Download/index.aspx)
 
 . USGS 30 Meter Global Land Cover [link](https://landcover.usgs.gov/glc/)
+
 
 #### Monitoring programmes/initiatives <a name="header-1-3-5"></a>
 
@@ -163,7 +169,13 @@ This page is also available in PDF format [link](./index.pdf)
 
 . USGS Early Warning and Environmental Monitoring Program (EWEM) [link](https://earlywarning.usgs.gov)
 
-#### Multiple themes (land cover, vegetation, water, energy, climate, ...) <a name="header-1-3-6"></a>
+
+#### Fires <a name="header-1-3-6"></a>
+
+.  Global Fire Emissions Database, Version 4.1 (GFEDv4) [link](https://daac.ornl.gov/VEGETATION/guides/fire_emissions_v4_R1.html)
+
+
+#### Multiple themes (land cover, vegetation, water, energy, climate, ...) <a name="header-1-3-7"></a>
 
 . Copernicus Land Monitoring Service and high-level products [link](http://land.copernicus.eu)
 
