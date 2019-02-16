@@ -28,6 +28,7 @@ preferences ;-) Let me know if you have suggestions to include here.
     - [Land cover / land use](#header-1-3-4)
     - [Monitoring programmes/initiatives](#header-1-3-5)
     - [Fires](#header-1-3-6)
+    - [Surface Temperature](#header-1-3-8)
     - [Multiple themes](#header-1-3-7)
   - [Catalogs and databases of EO missions](#header-1-4)
 <br />
@@ -64,15 +65,21 @@ This page is also available in PDF format [link](./index.pdf)
 
 #### Multi-platform <a name="header-1-1-1"></a>
 
-. ESA EOLi (ESA client for Earth Observation Catalogue and Ordering Services / not web-based) [link](https://earth.esa.int/web/guest/eoli)
+. Earth Starts Beating (ESB) Global Mapping Application [link](http://51.38.225.223/earthstartsbeating/)
 
-. Land Viewer EOS Data Analytics [link](https://lv.eosda.com)
+. EOS Platform [link](https://eos.com/platform/)
+
+. EOS Land Viewer Data Analytics [link](https://lv.eosda.com)
+
+. ESA EOLi (ESA client for Earth Observation Catalogue and Ordering Services / not web-based) [link](https://earth.esa.int/web/guest/eoli)
 
 . NASA Earth Observations (NEO) [link](https://neo.sci.gsfc.nasa.gov)
 
 . NASA EarthData search [link](https://search.earthdata.nasa.gov)
 
 . Planet Explorer Beta [link](https://www.planet.com/explorer)
+
+. Rocket EO data browser [link 1](https://mapshup.com/projects/rocket/#/home) [link 2](https://github.com/jjrom/resto) 
 
 . Sinergise EO Browser [link](http://apps.sentinel-hub.com/eo-browser/)
 
@@ -95,6 +102,8 @@ This page is also available in PDF format [link](./index.pdf)
 . MODIS Web Earth Observation Monitor (webEOM) [link](http://www.earth-observation-monitor.net)
 
 #### Sentinel <a name="header-1-1-4"></a>
+
+. Awesome Sentinel curated list of Sentinel-related tools, tutorials and API's [link](https://krstn.eu/awesome-Sentinel/)
 
 . BOKU Sentinel-2 data pre-processing service [link](https://s2.boku.eodc.eu)
 
@@ -175,6 +184,10 @@ This page is also available in PDF format [link](./index.pdf)
 .  Global Fire Emissions Database, Version 4.1 (GFEDv4) [link](https://daac.ornl.gov/VEGETATION/guides/fire_emissions_v4_R1.html)
 
 
+#### Surface Temperature <a name="header-1-3-8"></a>
+
+. Sea Surface Temperature [link](https://earthdata.nasa.gov/sea-surface-temperature) 
+
 #### Multiple themes (land cover, vegetation, water, energy, climate, ...) <a name="header-1-3-7"></a>
 
 . Copernicus Land Monitoring Service and high-level products [link](http://land.copernicus.eu)
@@ -185,7 +198,7 @@ This page is also available in PDF format [link](./index.pdf)
 
 . NOAA/EOG/NCEI (nighttime observations of lights and combustion sources worldwide) [link](https://ngdc.noaa.gov/eog/index.html)
 
-. SEDAAC datasets (mangroves, fires, urban extent, demography, etc) [link](http://sedac.ciesin.columbia.edu/data/sets/browse)
+. SEDAAC (Socioeconomic Data and Applications Data Center) datasets (mangroves, fires, urban extent, demography, etc) [link](http://sedac.ciesin.columbia.edu/data/sets/browse)
 
 . WCMC-UNEP datasets (biodiversity, SST, ecoregions, protected areas, mangrove ecosystems, marine species, coral reefs, ...) [link](http://data.unep-wcmc.org/)
 
@@ -221,7 +234,9 @@ This page is also available in PDF format [link](./index.pdf)
 . Australian National University / Water & Landscape dynamics / 
 Advanced remote sensing course resources [link](http://www.wenfo.org/wald/advanced-remote-sensing)
 
-. GIS and Earth Observation University courses [link](https://www.geo.university/)
+. GEO (GIS and Earth Observation) University courses [link](https://www.geo.university/)
+
+. GEO University Earth Engine Course [link](https://www.geo.university/courses/google-earth-engine-for-remote-sensing-and-gis-applications)
 
 . NASA Applied Remote Sensing Training (ARSET) [link](https://arset.gsfc.nasa.gov/)
 
@@ -290,7 +305,7 @@ Advanced remote sensing course resources [link](http://www.wenfo.org/wald/advanc
 
 . SAR tutorial basics [link](http://www.radartutorial.eu/20.airborne/ab07.en.html)
 
-. SAR/EDU - Remote Sensing Education Initiative [link](https://saredu.dlr.de/)
+. SAR/EDU - Remote Sensing Education Initiative [link](http://sar-edu.uni-jena.de/wp/)
 
 . Science Education through Earth Observation for High Schools (SEOS) Project tutorials [link](http://lms.seos-project.eu/learning_modules#)
 
@@ -334,7 +349,7 @@ Advanced remote sensing course resources [link](http://www.wenfo.org/wald/advanc
 
 . Open Jump (open-source java-based GIS) [link](http://jump-pilot.sourceforge.net/)
 
-. Orfeo Toolbox (OTB) [link 1](https://www.orfeo-toolbox.org/) [link 2](https://github.com/orfeotoolbox) [link 3](https://git.orfeo-toolbox.org/)
+. Orfeo Toolbox (OTB) [link 1](https://www.orfeo-toolbox.org/) [link 2](https://github.com/orfeotoolbox) [link 3](https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb)
 
 . Optiks (expandable remote sensing and imagery analysis software platform) [link](https://opticks.org/)
 
@@ -370,7 +385,7 @@ Advanced remote sensing course resources [link](http://www.wenfo.org/wald/advanc
 
 . Classes and Methods for Spatial Data (_sp_) [link](https://cran.r-project.org/web/packages/sp/index.html)
 
-. Creating and preprocessing MODIS time series (_MODIStsp_) [link 1](http://lbusett.github.io/MODIStsp/index.html) [link 2](https://github.com/lbusett/MODIStsp/)
+. Creating and preprocessing MODIS time series (_MODIStsp_) [link 1](http://ropensci.github.io/MODIStsp/) [link 2](https://github.com/ropensci/MODIStsp)
 
 . Interactive editing of spatial data in R (_mapedit_) [link 1](https://cran.r-project.org/web/packages/mapedit/index.html) [link 2](https://github.com/r-spatial/mapedit)
 
@@ -422,7 +437,7 @@ Advanced remote sensing course resources [link](http://www.wenfo.org/wald/advanc
 
 . Google Earth Engine [link 1](https://earthengine.google.com) [link 2](https://explorer.earthengine.google.com) [link 3](https://code.earthengine.google.com/)
 
-. ESA Earth Science Data Cube (ESDC) [link 1](http://earthsystemdatacube.net) [link 2](https://github.com/CAB-LAB)
+. ESA Earth Science Data Cube (ESDC) [link 1](http://earthsystemdatacube.net) [link 2](https://github.com/esa-esdl/cablab-dat) [link 2](https://github.com/esa-esdl/RCABLAB)
 
 . remap (large-scale ecosystem mapping and assessment) [link](https://remap-app.org/)
 
